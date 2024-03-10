@@ -89,3 +89,6 @@ document.querySelector('.js-cart-quantity')
 
     })
   })
+
+  
+  //Finished!
